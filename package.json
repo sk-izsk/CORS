@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/sk-izsk/CORS.git",
   "author": "iZsk",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
